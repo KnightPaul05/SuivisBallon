@@ -39,4 +39,3 @@ Ce projet est ouvert à toute contribution ! Si tu es intéressé(e) par la visi
 
 📩 **Contact :** _(ajoute ici un moyen de contact ou un lien vers un Discord, GitHub Issues, etc.)_
 
-test

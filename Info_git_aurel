@@ -16,3 +16,8 @@ git pull origin main
 git merge fichier.py
 
 et après tu te fais chier a faire en sorte que les conflits soient résolut
+
+petite rappel pour le file requirement ( pour ne pas avoir a faire à la main tous les ajouts des bibliothèque) :
+pip install -r requirements.txt
+ajout de bibliothèque :
+pip freeze > requirements.txt
