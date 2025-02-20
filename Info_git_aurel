@@ -1,0 +1,18 @@
+Etape à suivre pour mettre le git sur ton IDE :
+ouvre ton terminal :
+git clone https://github.com/KnightPaul05/SuivisBallon
+cd '.\SuivisBallon\'
+git checkout -b ma-branche
+Si tu as des questions demande a GPT il est bon pour tous ce qui est git
+Pour commit les changements (assure toi de toujours etre sur une branche autre que main) :
+git add . 
+git commit -m 'ton message claire de commit'
+git push
+
+Pour les merges et tous c'est plus compliquer
+
+git checkout main
+git pull origin main
+git merge fichier.py
+
+et après tu te fais chier a faire en sorte que les conflits soient résolut
