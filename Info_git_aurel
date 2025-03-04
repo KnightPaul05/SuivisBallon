@@ -22,4 +22,4 @@ pip install -r requirements.txt
 ajout de bibliothèque :
 pip freeze > requirements.txt
 
-Paul FDP
+Paul petit loulou
