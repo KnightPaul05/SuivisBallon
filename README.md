@@ -17,7 +17,7 @@ Le suivi de ballon pour le volley-ball est en cours de développement dans un pr
 
 ## 🏀 Basket  
 L'objectif avec le basket est de gagner de l'expérience et d'explorer les capacités de l'analyse d'image appliquée à ce sport. Quelques axes de recherche :  
-- 📹 Extraction et traitement des vidéos de basket  
+- 📹 Extraction et traitement des vidéos de basket
 - 🏃 Détection et suivi du ballon en mouvement  
 - 📊 Analyse approfondie des trajectoires et interactions  
 - 🏆 Possibilités d'utilisation : statistiques avancées, arbitrage assisté, etc.  
@@ -27,7 +27,7 @@ Nous cherchons à voir jusqu'où nous pouvons pousser l'analyse et quelles donn�
 ---
 
 ## 🚀 Prochaines étapes  
-- [ ] Améliorer la précision du suivi du ballon  
+- [ ] Améliorer la précision du suivi du ballon
 - [ ] Tester sur différents types de vidéos et angles de caméra  
 - [ ] Expérimenter avec d'autres sports (football, tennis...)  
 - [ ] Intégrer des modèles d'IA pour une meilleure détection  
