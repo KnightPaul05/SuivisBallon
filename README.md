@@ -31,6 +31,7 @@ Nous cherchons à voir jusqu'où nous pouvons pousser l'analyse et quelles donn�
 - [ ] Tester sur différents types de vidéos et angles de caméra  
 - [ ] Expérimenter avec d'autres sports (football, tennis...)  
 - [ ] Intégrer des modèles d'IA pour une meilleure détection  
+- [ ] Intégrer une détection de personnes et de numéros pour reconnaître les joueurs
 
 ---
 
